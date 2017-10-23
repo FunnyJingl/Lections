@@ -1,0 +1,3855 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.16)  17 APR 2017 16:04
+entering extended mode
+**./sample-book.tex
+(sample-book.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(tufte-book.cls
+Document Class: tufte-book 2015/06/21 v3.5.2 Tufte-book class
+(tufte-common.def
+File: tufte-common.def 2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
+\XKV@depth=\count79
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count80
+\calc@Bcount=\count81
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count82
+\calc@Cskip=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\ifmtarg\ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\hardwrap\hardwrap.sty
+Package: hardwrap 2011/02/12 v0.2 Hard wrap messages
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\ifplatform\ifplatform
+.sty
+Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\catchfile.sty"
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\hw@charcount=\count83
+\hw@wordcount=\count84
+\hw@maxprintline=\count85
+)
+Class tufte-book Info: Passing oneside to the `book' class.
+Class tufte-book Info: Passing openany to the `book' class.
+Class tufte-book Info: Loading the base class `book'
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count86
+\c@chapter=\count87
+\c@section=\count88
+\c@subsection=\count89
+\c@subsubsection=\count90
+\c@paragraph=\count91
+\c@subparagraph=\count92
+\c@figure=\count93
+\c@table=\count94
+\abovecaptionskip=\skip44
+\belowcaptionskip=\skip45
+\bibindent=\dimen104
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip46
+\aftertitleunit=\skip47
+\ttl@plus=\dimen105
+\ttl@minus=\dimen106
+\ttl@toksa=\toks16
+\titlewidth=\dimen107
+\titlewidthlast=\dimen108
+\titlewidthfirst=\dimen109
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen110
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen111
+\Hy@linkcounter=\count95
+\Hy@pagecounter=\count96
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count97
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4362.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4362.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count98
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen112
+\Fld@menulength=\count99
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count100
+\c@Item=\count101
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\changepage\changepage
+.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count107
+\cp@tempcnt=\count108
+)
+\@tufte@overhang=\skip63
+\@tufte@fullwidth=\skip64
+\@tufte@caption@fill=\skip65
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\paralist\paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip66
+\plpartopsep=\skip67
+\plitemsep=\skip68
+\plparsep=\skip69
+\pl@lab=\toks18
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\letterspace
+.sty
+Package: letterspace 2016/05/14 v2.6a Robust letterspacing (RS)
+LaTeX Info: Redefining \lsstyle on input line 346.
+LaTeX Info: Redefining \lslig on input line 347.
+LaTeX Info: Redefining \textls on input line 372.
+\MT@outer@kern=\dimen123
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+\Gread@gobject=\count109
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip70
+\bibsep=\skip71
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count110
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(sample-book.bbl)
+\c@@tufte@num@bibkeys=\count111
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\sauerj\optparams.sty
+Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
+)
+\@tufte@sidenote@vertical@offset=\skip72
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+\@tufte@margin@floatbox=\box27
+\@tufte@figure@box=\box28
+\@tufte@caption@box=\box29
+\@tufte@caption@vertical@offset=\skip73
+\@tufte@float@contents@width=\skip74
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty"
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\bera\beramono.sty
+Package: beramono 2004/01/31 (WaS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip75
+\f@ncyO@elh=\skip76
+\f@ncyO@erh=\skip77
+\f@ncyO@olh=\skip78
+\f@ncyO@orh=\skip79
+\f@ncyO@elf=\skip80
+\f@ncyO@erf=\skip81
+\f@ncyO@olf=\skip82
+\f@ncyO@orf=\skip83
+)
+\tufteskipamount=\skip84
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count112
+\mult@box=\box30
+\multicol@leftmargin=\dimen124
+\c@unbalance=\count113
+\c@collectmore=\count114
+\doublecol@number=\count115
+\multicoltolerance=\count116
+\multicolpretolerance=\count117
+\full@width=\dimen125
+\page@free=\dimen126
+\premulticols=\dimen127
+\postmulticols=\dimen128
+\multicolsep=\skip85
+\multicolbaselineskip=\skip86
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen129
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count118
+\c@finalcolumnbadness=\count119
+\last@try=\dimen130
+\multicolovershoot=\dimen131
+\multicolundershoot=\dimen132
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count120
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip87
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen133
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count121
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count122
+\leftroot@=\count123
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count124
+\DOTSCASE@=\count125
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen135
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count126
+\c@MaxMatrixCols=\count127
+\dotsspace@=\muskip11
+\c@parentequation=\count128
+\dspbrk@lvl=\count129
+\tag@help=\toks20
+\row@=\count130
+\column@=\count131
+\maxfields@=\count132
+\andhelp@=\toks21
+\eqnshift@=\dimen136
+\alignsep@=\dimen137
+\tagshift@=\dimen138
+\tagwidth@=\dimen139
+\totwidth@=\dimen140
+\lineht@=\dimen141
+\@envbody=\toks22
+\multlinegap=\skip88
+\multlinetaggap=\skip89
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count133
+\U@D=\dimen142
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-russian\russian
+b.ldf
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 69.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+
+Package babel Warning: No input encoding specified for Russian language on inpu
+t line 110.
+
+Package babel Info: Making " an active character on input line 111.
+)) (C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\cmap\cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
+
+Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
+
+) (C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+\CommentStream=\write3
+Excluding comment 'comment')
+Package hyperref Info: Option `colorlinks' set `true' on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\pscyr.sty"
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t2aenc.dfu"
+File: t2aenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/10/11 v2.1 Span multiple rows of a table
+\multirow@colwidth=\skip90
+\multirow@cnta=\count134
+\multirow@cntb=\count135
+\multirow@dima=\skip91
+\bigstrutjot=\dimen145
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\was\icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks26
+\labelindent=\skip92
+\enit@outerparindent=\dimen146
+\enit@toks=\toks27
+\enit@inbox=\box58
+\enitdp@description=\count136
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks28
+\verbatim@line=\toks29
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count137
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count138
+\@cmidlb=\count139
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count140
+\@lastruleclass=\count141
+\@thisrulewidth=\dimen159
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count142
+\FV@InFile=\read2
+\FV@TabBox=\box59
+\c@FancyVerbLine=\count143
+\FV@StepNumber=\count144
+\FV@OutFile=\write4
+)
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\units\units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip93
+\L@UnitsRaiseTextstyle=\skip94
+\L@UnitsRaiseScriptstyle=\skip95
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+\openout5 = `sample-book.idx'.
+
+
+Writing index file sample-book.idx
+(sample-book.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>> (OEP.aux) (Gears.aux) (Conic_gear.aux) (Cherv_gear.aux)
+(Vint-gaika.aux) (EMP.aux) (Potentiometer.aux) (IEMM.aux) (Mufti.aux) (UCHE.aux
+) (ProektirovanieOEP.aux) (KD.aux) (Lenses.aux) (Prism_mirror.aux)
+(Components.aux) (Detail.aux) (Adjustment.aux) (Solutions.aux) (Standart.aux))
+\openout1 = `sample-book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 168.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 168.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 168.
+LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Try loading font information for T1+faq on input line 168.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\t1faq.fd"
+File: t1faq.fd 2004/03/22 Fontinst v1.914 font definitions for T1/faq.
+)<<t1.cmap>>
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring ON on input line 168.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count145
+)
+LaTeX Info: Redefining \ref on input line 168.
+LaTeX Info: Redefining \pageref on input line 168.
+LaTeX Info: Redefining \nameref on input line 168.
+
+(sample-book.out) (sample-book.out)
+\@outlinefile=\write6
+\openout6 = `sample-book.out'.
+
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 168.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside asymmetric 
+* h-part:(L,W,R)=(42.67912pt, 378.42165pt, 176.4071pt)
+* v-part:(T,H,B)=(77.96053pt, 686.0pt, 81.08632pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=378.42165pt
+* \textheight=686.0pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-36.30946pt
+* \headheight=14.0pt
+* \headsep=28.0pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=142.26378pt
+* \marginparsep=22.76219pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\FunnyJingl\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count146
+\scratchdimen=\dimen160
+\scratchbox=\box61
+\nofMPsegments=\count147
+\nofMParguments=\count148
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count149
+\MPscratchDim=\dimen161
+\MPnumerator=\count150
+\makeMPintoPDFobject=\count151
+\everyMPtoPDFconversion=\toks31
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\langwohyphens=\language75
+LaTeX Font Info:    Try loading font information for T2A+faq on input line 168.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\t2afaq.fd"
+File: t2afaq.fd 2004/09/23 Fontinst v1.914 font definitions for T2A/faq.
+)
+LaTeX Font Info:    Try loading font information for T2A+ftx on input line 174.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\t2aftx.fd"
+File: t2aftx.fd 2004/09/23 Fontinst v1.914 font definitions for T2A/ftx.
+)
+Overfull \hbox (16.82008pt too wide) in paragraph at lines 174--174
+[]\T2A/ftx/m/n/36/200ls  онструирование оптико- 
+ []
+
+[1
+
+
+
+{C:/Users/FunnyJingl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for TS1+faq on input line 184.
+
+LaTeX Font Info:    No file TS1faq.fd. on input line 184.
+
+
+LaTeX Font Warning: Font shape `TS1/faq/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textcopyright' on input line 184.
+
+LaTeX Font Info:    Try loading font information for T2A+fer on input line 192.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\t2afer.fd"
+File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
+)
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 192
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd"
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)<<ot1.cmap>>
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 192
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)<<oml.cmap>>
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 192
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)<<oms.cmap>>
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 192
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)<<omx.cmap>>
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 192
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 192.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 192.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 192.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 192.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 192.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 192.
+
+Overfull \hbox (0.35179pt too wide) in paragraph at lines 190--198
+\T2A/faq/m/n/10 License. You may obtain a copy of the License at [][]$\T2A/fer/
+m/n/10 http : / / www . apache . org / licenses / LICENSE-[]2 . 0$[][]\T2A/faq/
+m/n/10 . Unless required 
+ []
+
+
+Overfull \hbox (7.43301pt too wide) in paragraph at lines 190--198
+\T2A/faq/m/n/10 by applicable law or agreed to in writing, software distributed
+ under the License is distributed on an \T2A/faq/m/sc/10/50ls ``as is'' basis, 
+without 
+ []
+
+[2
+
+] (sample-book.toc [3
+
+])
+\tf@toc=\write7
+\openout7 = `sample-book.toc'.
+
+ [4] (sample-book.lof
+Overfull \hbox (1.06789pt too wide) in paragraph at lines 15--15
+ [][] [][][]\T2A/faq/m/n/10 ѕроволочный по-тен-цио-метр: а -- кон-струк-ци€, б 
+-- элек-три-че-ска€ схе-ма, в -- ха-
+ []
+
+
+Overfull \hbox (1.65778pt too wide) in paragraph at lines 40--40
+ [][] [][][]\T2A/faq/m/n/10  репление линз при-кле-и-ва-ни-ем: а -- с ба-зи-ро-
+ва-ни-ем на ра-бо-чие эле-мен-ты опра-
+ []
+
+
+Overfull \hbox (28.16782pt too wide) in paragraph at lines 40--40
+ \T2A/faq/m/n/10 вы; б -- с ба-зи-ро-ва-ни-ем на кле-е-вой шов; в -- с ком-би-н
+и-ро-ван-ным ба-зи-ро-ва-ни-ем[][] 97 
+ []
+
+
+Overfull \hbox (4.92784pt too wide) in paragraph at lines 41--41
+ [][] [][][]\T2A/faq/m/n/10  репление лин-зы резь-бо-вым коль-цом: а -- коль-цо
+ с на-руж-ной резь-бой; б -- коль-
+ []
+
+
+Overfull \hbox (10.28773pt too wide) in paragraph at lines 43--43
+ [][] [][][]\T2A/faq/m/n/10  репление про-во-лоч-ным коль-цом:а -- опра-ва с пр
+€-мо-уголь-ной ка-нав-кой; б -- опра-
+ []
+
+
+Overfull \hbox (7.89784pt too wide) in paragraph at lines 44--44
+ [][] [][][]\T2A/faq/m/n/10  репление пру-жи-н€-щи-ми план-ка-ми: а -- тре-м€ п
+лан-ка-ми; б -- коль-це-вой план-кой
+ []
+
+[5
+
+]
+Overfull \hbox (21.57785pt too wide) in paragraph at lines 69--69
+ [][] [][][]\T2A/faq/m/n/10  репление зер-ка-ла: а -- Z-образными план-ка-ми, б
+ -- √-образными план-ка-ми [][] 127 
+ []
+
+
+Overfull \hbox (5.97781pt too wide) in paragraph at lines 74--74
+ [][] [][][]\T2A/faq/m/n/10 –азгрузка мас-сы зер-ка-ла на 18 опор: 1 -- опо-ры,
+ 2 -- раз-гру-зоч-на€ пло-щад-ка, 3 --
+ []
+
+
+Overfull \hbox (9.72787pt too wide) in paragraph at lines 92--92
+ [][] [][][]\T2A/faq/m/n/10 ѕример ком-по-нов-ки на мон-таж-ной пли-те ин-тер-ф
+е-ро-мет-ра ћаха-÷ендера [][] 153 
+ []
+
+
+Overfull \hbox (8.38786pt too wide) in paragraph at lines 93--93
+ [][] [][][]\T2A/faq/m/n/10 ѕример ком-по-нов-ки на мон-таж-ной пли-те про-ек-т
+о-ра дл€ ла-зер-но-го шоу ком-па-нии
+ []
+
+[6]
+Overfull \hbox (5.6179pt too wide) in paragraph at lines 103--103
+ [][] [][][]\T2A/faq/m/n/10 ёстировка по схе-ме вспо-мо-га-тель-ных из-ме-ре-ни
+й: 1 -- ќЁѕ; 3 -- си-сте-ма срав-не-
+ []
+
+
+Overfull \hbox (9.9544pt too wide) in paragraph at lines 103--103
+ \T2A/faq/m/n/10 ни€ по-греш-но-стей с их до-пу-сти-мы-ми зна-че-ни-€-ми; $\OML
+/zplm/m/it/10 x\OT1/pplx/m/n/10 , \OML/zplm/m/it/10 y$ \T2A/faq/m/n/10 -- ин-фо
+р-ма-тив-ные па-ра-мет-
+ []
+
+
+Overfull \hbox (3.36769pt too wide) in paragraph at lines 103--103
+ \T2A/faq/m/n/10 ры вход-но-го и вы-ход-но-го сиг-на-лов; $\OML/zplm/m/it/10 q$
+ \T2A/faq/m/n/10 -- кон-струк-тив-ные па-ра-мет-ры при-бо-ра; $\OML/zplm/m/it/1
+0 f$ \T2A/faq/m/n/10 --
+ []
+
+
+Overfull \hbox (0.3743pt too wide) in paragraph at lines 103--103
+ \T2A/faq/m/n/10 функ-ци€, св€-зы-ва-ю-ща€ $\OML/zplm/m/it/10 x$ \T2A/faq/m/n/1
+0 и $\OML/zplm/m/it/10 y$\T2A/faq/m/n/10 ; $\OML/zplm/m/it/10 y[]\OT1/pplx/m/n/
+10 , \OML/zplm/m/it/10 q[]$ \T2A/faq/m/n/10 -- рас-чет-ные (но-ми-наль-ные) зна
+-че-ни€ пе-ре-
+ []
+
+
+Overfull \hbox (15.86009pt too wide) in paragraph at lines 103--103
+ \T2A/faq/m/n/10 чис-лен-ных па-ра-мет-ров; $\OT1/zplm/m/n/10 \OML/zplm/m/it/1
+0 z[]$ \T2A/faq/m/n/10 -- управ-л€-ю-щий сиг-нал на ис-пол-ни-тель-ное устрой-с
+тво;
+ []
+
+
+Overfull \hbox (37.91008pt too wide) in paragraph at lines 103--103
+ \OT1/zplm/m/n/10 \OML/zplm/m/it/10 q[]$ \T2A/faq/m/n/10 -- кор-рек-ци€ ис-пол
+-ни-тель-но-го устрой-ства, из-ме-н€-ю-ща€ па-ра-мет-ры при-бо-ра [][] 161 
+ []
+
+
+Overfull \hbox (8.12782pt too wide) in paragraph at lines 104--104
+ [][] [][][]\T2A/faq/m/n/10 јдаптивное зер-ка-ло: 1 -- от-дель-ное эле-мен-тар-
+ное зер-ка-ло; 2 -- ци-линдр из пье-зо-
+ []
+
+)
+\tf@lof=\write8
+\openout8 = `sample-book.lof'.
+
+ [7] (sample-book.lot)
+\tf@lot=\write9
+\openout9 = `sample-book.lot'.
+
+ [8
+
+]
+\openout2 = `OEP.aux'.
+
+ (OEP.tex
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+<pictures/OEPscheme.png, id=497, 396.7322pt x 313.9228pt>
+File: pictures/OEPscheme.png Graphic file (type png)
+
+<use pictures/OEPscheme.png>
+Package pdftex.def Info: pictures/OEPscheme.png used on input line 17.
+(pdftex.def)             Requested size: 302.74243pt x 239.55139pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9
+
+
+
+]
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+<pictures/OEPclassification.png, id=503, 526.21594pt x 383.18156pt>
+File: pictures/OEPclassification.png Graphic file (type png)
+
+<use pictures/OEPclassification.png>
+Package pdftex.def Info: pictures/OEPclassification.png used on input line 33.
+(pdftex.def)             Requested size: 543.46983pt x 395.74554pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./pictures/OEPscheme.png>] [11 <./pictures/OEPclassification.png>]
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+<pictures/1QualityOEP.png, id=520, 538.26094pt x 372.64218pt>
+File: pictures/1QualityOEP.png Graphic file (type png)
+
+<use pictures/1QualityOEP.png>
+Package pdftex.def Info: pictures/1QualityOEP.png used on input line 96.
+(pdftex.def)             Requested size: 380.41032pt x 263.36098pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 103--103
+\T2A/faq/m/n/8/200ls ѕќ ј«ј“≈Ћ» 
+ []
+
+[12]
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+[13 <./pictures/1QualityOEP.png>]
+Underfull \hbox (badness 1796) in paragraph at lines 122--122
+\T2A/faq/m/n/8/200ls ѕќ ј«ј“≈Ћ» 
+ []
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+[14]
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+[15]
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+)
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+[16]
+\openout2 = `Gears.aux'.
+
+ (Gears.tex
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 19--19
+\T2A/faq/m/n/8/200ls «”Ѕ„ј“јя 
+ []
+
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+<pictures/osi1.png, id=560, 147.55125pt x 197.23688pt>
+File: pictures/osi1.png Graphic file (type png)
+ <use pictures/osi1.png>
+Package pdftex.def Info: pictures/osi1.png used on input line 25.
+(pdftex.def)             Requested size: 85.36137pt x 114.10551pt.
+
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+<pictures/osi2.png, id=561, 152.82094pt x 161.85469pt>
+File: pictures/osi2.png Graphic file (type png)
+ <use pictures/osi2.png>
+Package pdftex.def Info: pictures/osi2.png used on input line 38.
+(pdftex.def)             Requested size: 85.35759pt x 90.40337pt.
+
+<pictures/ZK_nachalo.png, id=562, 1014.03844pt x 548.80031pt>
+File: pictures/ZK_nachalo.png Graphic file (type png)
+
+<use pictures/ZK_nachalo.png>
+Package pdftex.def Info: pictures/ZK_nachalo.png used on input line 46.
+(pdftex.def)             Requested size: 543.4568pt x 294.12025pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17
+
+
+
+ <./pictures/osi1.png> <./pictures/osi2.png>]
+<pictures/osi3.png, id=567, 136.25906pt x 194.97844pt>
+File: pictures/osi3.png Graphic file (type png)
+ <use pictures/osi3.png>
+Package pdftex.def Info: pictures/osi3.png used on input line 52.
+(pdftex.def)             Requested size: 99.5847pt x 142.49966pt.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+<pictures/osi4.png, id=568, 159.59625pt x 194.97844pt>
+File: pictures/osi4.png Graphic file (type png)
+ <use pictures/osi4.png>
+Package pdftex.def Info: pictures/osi4.png used on input line 56.
+(pdftex.def)             Requested size: 113.8109pt x 139.04257pt.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+<pictures/osi6.png, id=569, 159.59625pt x 148.30406pt>
+File: pictures/osi6.png Graphic file (type png)
+ <use pictures/osi6.png>
+Package pdftex.def Info: pictures/osi6.png used on input line 60.
+(pdftex.def)             Requested size: 113.8109pt x 105.75824pt.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+[18 <./pictures/ZK_nachalo.png> <./pictures/osi3.png> <./pictures/osi4.png> <./
+pictures/osi6.png>]
+Underfull \hbox (badness 2856) in paragraph at lines 86--86
+\T2A/faq/m/n/8/200ls ќ—Ќќ¬Ќјя 
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 86--86
+\T2A/faq/m/n/8/200ls “≈ќ–≈ћј 
+ []
+
+
+LaTeX Warning: Marginpar on page 19 moved.
+
+<pictures/OTZ.png, id=574, 402.00188pt x 514.17094pt>
+File: pictures/OTZ.png Graphic file (type png)
+ <use pictures/OTZ.png>
+Package pdftex.def Info: pictures/OTZ.png used on input line 90.
+(pdftex.def)             Requested size: 326.06752pt x 417.04892pt.
+
+[19 <./pictures/OTZ.png>]
+
+LaTeX Warning: Marginpar on page 20 moved.
+
+<pictures/osi5.png, id=580, 147.55125pt x 194.97844pt>
+File: pictures/osi5.png Graphic file (type png)
+ <use pictures/osi5.png>
+Package pdftex.def Info: pictures/osi5.png used on input line 117.
+(pdftex.def)             Requested size: 85.36137pt x 112.79898pt.
+
+
+LaTeX Warning: Marginpar on page 20 moved.
+
+<pictures/evolventa1.png, id=582, 456.95718pt x 319.1925pt>
+File: pictures/evolventa1.png Graphic file (type png)
+
+<use pictures/evolventa1.png>
+Package pdftex.def Info: pictures/evolventa1.png used on input line 137.
+(pdftex.def)             Requested size: 302.7501pt x 211.4762pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for T2A+ppl on input line 144.
+
+LaTeX Font Info:    No file T2Appl.fd. on input line 144.
+
+LaTeX Font Warning: Font shape `T2A/ppl/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 144.
+
+[20 <./pictures/osi5.png>]
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 195--195
+\T2A/faq/m/n/8/200ls «”Ѕ„ј“џ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+[21 <./pictures/evolventa1.png>]
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+Overfull \hbox (7.82188pt too wide) in paragraph at lines 205--205
+|\T2A/faq/m/it/12 –асчЉт на проч-ность ци-лин-дри-че-ских эволь-вент-ных зуб-ча
+-тых ко-лЉс| 
+ []
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 209.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 209.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 209.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 209.
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+[22] <pictures/polomkaZ1.png, id=598, 368.87813pt x 229.60782pt>
+File: pictures/polomkaZ1.png Graphic file (type png)
+
+<use pictures/polomkaZ1.png>
+Package pdftex.def Info: pictures/polomkaZ1.png used on input line 236.
+(pdftex.def)             Requested size: 142.26335pt x 88.55168pt.
+
+<pictures/polomkaZ.png, id=599, 170.92429pt x 225.98714pt>
+File: pictures/polomkaZ.png Graphic file (type png)
+
+<use pictures/polomkaZ.png>
+Package pdftex.def Info: pictures/polomkaZ.png used on input line 242.
+(pdftex.def)             Requested size: 85.3576pt x 112.85535pt.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+<pictures/polomkaZ2.png, id=601, 271.96342pt x 323.31316pt>
+File: pictures/polomkaZ2.png Graphic file (type png)
+
+<use pictures/polomkaZ2.png>
+Package pdftex.def Info: pictures/polomkaZ2.png used on input line 247.
+(pdftex.def)             Requested size: 85.35768pt x 101.47417pt.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+<pictures/polomkaZ3.png, id=602, 205.2468pt x 250.0542pt>
+File: pictures/polomkaZ3.png Graphic file (type png)
+
+<use pictures/polomkaZ3.png>
+Package pdftex.def Info: pictures/polomkaZ3.png used on input line 252.
+(pdftex.def)             Requested size: 85.3606pt x 103.99567pt.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+Overfull \hbox (10.32458pt too wide) in paragraph at lines 266--266
+|\T2A/faq/m/it/10.95 »сходные со-от-но-ше-ни€ меж-ду окруж-ны-ми и нор-маль-ны-
+ми си-ла-ми и дав-ле-
+ []
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+[23 <./pictures/polomkaZ1.png> <./pictures/polomkaZ.png> <./pictures/polomkaZ2.
+png> <./pictures/polomkaZ3.png>]) [24]
+\openout2 = `Conic_gear.aux'.
+
+ (Conic_gear.tex)
+
+LaTeX Warning: Marginpar on page 25 moved.
+
+[25
+
+
+
+]
+\openout2 = `Cherv_gear.aux'.
+
+ (Cherv_gear.tex
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+[26
+
+
+
+]) [27]
+\openout2 = `Vint-gaika.aux'.
+
+ (Vint-gaika.tex
+Underfull \hbox (badness 3612) in paragraph at lines 33--33
+\T2A/faq/m/n/8/200ls —»Ћќ¬џ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 28 moved.
+
+[28
+
+
+
+]) [29]
+\openout2 = `EMP.aux'.
+
+ (EMP.tex
+
+LaTeX Warning: Marginpar on page 30 moved.
+
+
+LaTeX Warning: Marginpar on page 30 moved.
+
+
+LaTeX Warning: Marginpar on page 30 moved.
+
+
+LaTeX Warning: Marginpar on page 30 moved.
+
+[30
+
+
+
+]
+
+LaTeX Warning: Marginpar on page 31 moved.
+
+
+LaTeX Warning: Marginpar on page 31 moved.
+
+
+LaTeX Warning: Marginpar on page 31 moved.
+
+[31]) [32]
+\openout2 = `Potentiometer.aux'.
+
+ (Potentiometer.tex
+
+LaTeX Warning: Marginpar on page 33 moved.
+
+<pictures/8potentiometer.png, id=661, 321.96284pt x 132.2541pt>
+File: pictures/8potentiometer.png Graphic file (type png)
+
+<use pictures/8potentiometer.png>
+Package pdftex.def Info: pictures/8potentiometer.png used on input line 19.
+(pdftex.def)             Requested size: 378.44885pt x 155.45709pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/8potentiometer1.png, id=662, 1195.46625pt x 541.27219pt>
+File: pictures/8potentiometer1.png Graphic file (type png)
+
+<use pictures/8potentiometer1.png>
+Package pdftex.def Info: pictures/8potentiometer1.png used on input line 25.
+(pdftex.def)             Requested size: 378.41623pt x 171.3358pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33
+
+
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 35.
+
+
+Package hyperref Warning: Suppressing empty link on input line 35.
+
+<pictures/8type.png, id=671, 185.37254pt x 100.4553pt>
+File: pictures/8type.png Graphic file (type png)
+
+<use pictures/8type.png>
+Package pdftex.def Info: pictures/8type.png used on input line 39.
+(pdftex.def)             Requested size: 302.78249pt x 164.08096pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[34 <./pictures/8potentiometer.png> <./pictures/8potentiometer1.png>]
+Underfull \hbox (badness 1931) in paragraph at lines 45--45
+\T2A/faq/m/n/8/200ls ѕЋЬЌќ„Ќџ… 
+ []
+
+
+LaTeX Warning: Marginpar on page 35 moved.
+
+
+LaTeX Warning: Marginpar on page 35 moved.
+
+[35 <./pictures/8type.png>]
+<pictures/8photopotentiometer.png, id=685, 199.82655pt x 98.2872pt>
+File: pictures/8photopotentiometer.png Graphic file (type png)
+
+<use pictures/8photopotentiometer.png>
+Package pdftex.def Info: pictures/8photopotentiometer.png used on input line 68
+.
+(pdftex.def)             Requested size: 227.06978pt x 111.6871pt.
+
+Underfull \hbox (badness 1337) in paragraph at lines 73--73
+\T2A/faq/m/n/8/200ls ∆»ƒ ќ—“Ќџ… 
+ []
+
+
+LaTeX Warning: Marginpar on page 36 moved.
+
+[36 <./pictures/8photopotentiometer.png>]
+<pictures/8resolution.png, id=692, 140.2038pt x 104.7915pt>
+File: pictures/8resolution.png Graphic file (type png)
+
+<use pictures/8resolution.png>
+Package pdftex.def Info: pictures/8resolution.png used on input line 110.
+(pdftex.def)             Requested size: 227.05402pt x 169.70534pt.
+ [37 <./pictures/8resolution.png>]
+<pictures/8nagruzka.png, id=700, 99.7326pt x 80.9424pt>
+File: pictures/8nagruzka.png Graphic file (type png)
+
+<use pictures/8nagruzka.png>
+Package pdftex.def Info: pictures/8nagruzka.png used on input line 126.
+(pdftex.def)             Requested size: 151.38663pt x 122.86452pt.
+
+
+Package hyperref Warning: Suppressing empty link on input line 138.
+
+<pictures/8error.png, id=701, 99.0099pt x 192.2382pt>
+File: pictures/8error.png Graphic file (type png)
+
+<use pictures/8error.png>
+Package pdftex.def Info: pictures/8error.png used on input line 141.
+(pdftex.def)             Requested size: 151.38039pt x 293.92107pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/8resistor.png, id=703, 197.65845pt x 71.5473pt>
+File: pictures/8resistor.png Graphic file (type png)
+
+<use pictures/8resistor.png>
+Package pdftex.def Info: pictures/8resistor.png used on input line 148.
+(pdftex.def)             Requested size: 227.05508pt x 82.18811pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38 <./pictures/8nagruzka.png>] [39 <./pictures/8error.png> <./pictures/8resist
+or.png>] [40] <pictures/8scheme.png, id=721, 362.35374pt x 389.455pt>
+File: pictures/8scheme.png Graphic file (type png)
+
+<use pictures/8scheme.png>
+Package pdftex.def Info: pictures/8scheme.png used on input line 205.
+(pdftex.def)             Requested size: 264.89754pt x 284.70982pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41] [42 <./pictures/8scheme.png>]
+
+LaTeX Warning: Marginpar on page 43 moved.
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 246--246
+\T2A/faq/m/n/8/200ls ќЅЋј—“» 
+ []
+
+
+LaTeX Warning: Marginpar on page 43 moved.
+
+[43]) [44]
+\openout2 = `IEMM.aux'.
+
+ (IEMM.tex) [45
+
+
+
+]
+\openout2 = `Mufti.aux'.
+
+ (Mufti.tex
+
+LaTeX Warning: Marginpar on page 46 moved.
+
+
+LaTeX Warning: Marginpar on page 46 moved.
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 37--37
+\T2A/faq/m/n/8/200ls ѕјЋ№÷≈¬џ≈ 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 37--37
+\T2A/faq/m/n/8/200ls (ѕќ¬ќƒ ќ¬џ≈) 
+ []
+
+
+LaTeX Warning: Marginpar on page 46 moved.
+
+[46
+
+
+
+]
+Underfull \hbox (badness 1609) in paragraph at lines 48--48
+\T2A/faq/m/n/8/200ls ЁЋј—“»„Ќџ≈ 
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 48--48
+\T2A/faq/m/n/8/200ls ѕјЋ№÷≈¬џ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 47 moved.
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 56--56
+\T2A/faq/m/n/8/200ls ¬»Ќ“ќ¬џћ» 
+ []
+
+
+LaTeX Warning: Marginpar on page 47 moved.
+
+
+LaTeX Warning: Marginpar on page 47 moved.
+
+
+LaTeX Warning: Marginpar on page 47 moved.
+
+[47]) [48]
+\openout2 = `UCHE.aux'.
+
+ (UCHE.tex [49
+
+
+
+]) [50]
+\openout2 = `ProektirovanieOEP.aux'.
+
+ (ProektirovanieOEP.tex
+
+LaTeX Warning: Marginpar on page 51 moved.
+
+
+LaTeX Warning: Marginpar on page 51 moved.
+
+
+LaTeX Warning: Marginpar on page 51 moved.
+
+[51
+
+
+
+]
+
+LaTeX Warning: Marginpar on page 52 moved.
+
+
+LaTeX Warning: Marginpar on page 52 moved.
+
+
+LaTeX Warning: Marginpar on page 52 moved.
+
+[52]
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+[53] [54] <pictures/2block.png, id=786, 688.07062pt x 326.72063pt>
+File: pictures/2block.png Graphic file (type png)
+
+<use pictures/2block.png>
+Package pdftex.def Info: pictures/2block.png used on input line 142.
+(pdftex.def)             Requested size: 489.10051pt x 232.24246pt.
+ [55 <./pictures/2block.png>]
+Underfull \hbox (badness 1502) in paragraph at lines 163--163
+\T2A/faq/m/n/8/200ls Ќ»—’ќƒяў≈≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 56 moved.
+
+[56]
+Underfull \hbox (badness 1571) in paragraph at lines 171--171
+\T2A/faq/m/n/8/200ls ¬ќ—’ќƒяў≈≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 57 moved.
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 177--177
+\T2A/faq/m/n/8/200ls —ћ≈ЎјЌЌќ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 57 moved.
+
+[57]
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+[58]
+
+LaTeX Warning: Marginpar on page 59 moved.
+
+
+LaTeX Warning: Marginpar on page 59 moved.
+
+[59]
+
+LaTeX Warning: Marginpar on page 60 moved.
+
+
+LaTeX Warning: Marginpar on page 60 moved.
+
+
+LaTeX Warning: Marginpar on page 60 moved.
+
+
+LaTeX Warning: Marginpar on page 60 moved.
+
+
+LaTeX Warning: Marginpar on page 60 moved.
+
+[60]
+
+LaTeX Warning: Marginpar on page 61 moved.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 296--296
+\T2A/faq/m/n/8/200ls ¬ќ«ƒ≈…—“¬»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 61 moved.
+
+) [61]
+\openout2 = `KD.aux'.
+
+ (KD.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\newline' on input line 1.
+
+
+Overfull \hbox (1.11786pt too wide) in paragraph at lines 12--13
+\T2A/faq/m/n/10 конструкторским ра-бо-там (ќ –) -- обыч-но пред-ше-ству-ют науч
+но-исследовательские 
+ []
+
+[62
+
+
+
+] <pictures/etapi.png, id=834, 399.894pt x 703.6689pt>
+File: pictures/etapi.png Graphic file (type png)
+
+<use pictures/etapi.png>
+Package pdftex.def Info: pictures/etapi.png used on input line 26.
+(pdftex.def)             Requested size: 170.28525pt x 299.6405pt.
+ [63 <./pictures/etapi.png>] [64] [65] [66] [67]
+
+LaTeX Warning: Marginpar on page 68 moved.
+
+
+LaTeX Warning: Marginpar on page 68 moved.
+
+[68]
+
+LaTeX Warning: Marginpar on page 69 moved.
+
+[69] [70]
+
+LaTeX Warning: Marginpar on page 71 moved.
+
+[71] [72]
+
+LaTeX Warning: Marginpar on page 73 moved.
+
+[73] [74] [75] [76] [77]
+Overfull \hbox (18.30783pt too wide) in paragraph at lines 437--438
+[]\T2A/faq/m/n/10 ѕравила вы-пол-не-ни€ чер-те-жей и схем оп-ти-че-ских из-де-л
+ий уста-нов-ле-ны √ќ—“ 2.412- 
+ []
+
+[78] [79] [80]
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 491.
+
+Missing character: There is no – in font pplr9t!
+[81] <pictures/3sher.png, id=918, 268.8444pt x 127.1952pt>
+File: pictures/3sher.png Graphic file (type png)
+
+<use pictures/3sher.png>
+Package pdftex.def Info: pictures/3sher.png used on input line 534.
+(pdftex.def)             Requested size: 227.05432pt x 107.42354pt.
+ [82 <./pictures/3sher.png>] [83] [84]
+<pictures/3OS.png, id=942, 328.8285pt x 363.5181pt>
+File: pictures/3OS.png Graphic file (type png)
+ <use pictures/3OS.png>
+Package pdftex.def Info: pictures/3OS.png used on input line 610.
+(pdftex.def)             Requested size: 378.43584pt x 418.35873pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--613
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/3Comb.png, id=943, 790.45313pt x 539.76656pt>
+File: pictures/3Comb.png Graphic file (type png)
+
+<use pictures/3Comb.png>
+Package pdftex.def Info: pictures/3Comb.png used on input line 616.
+(pdftex.def)             Requested size: 340.57571pt x 232.56456pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [85] [86 <./pictures/3OS.png> <./pictures/3Comb.png>]
+\openout2 = `Lenses.aux'.
+
+ (Lenses.tex
+<pictures/5lenses.png, id=957, 697.10437pt x 446.41782pt>
+File: pictures/5lenses.png Graphic file (type png)
+
+<use pictures/5lenses.png>
+Package pdftex.def Info: pictures/5lenses.png used on input line 9.
+(pdftex.def)             Requested size: 378.41986pt x 242.33583pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+
+ []
+
+[87
+
+
+
+ <./pictures/5lenses.png>]
+Underfull \hbox (badness 2393) in paragraph at lines 18--18
+\T2A/faq/m/n/8/200ls –ј—„Ь“Ќџ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 88 moved.
+
+
+LaTeX Warning: Marginpar on page 88 moved.
+
+
+LaTeX Warning: Marginpar on page 88 moved.
+
+<pictures/5draw.png, id=966, 326.6604pt x 220.78485pt>
+File: pictures/5draw.png Graphic file (type png)
+
+<use pictures/5draw.png>
+Package pdftex.def Info: pictures/5draw.png used on input line 23.
+(pdftex.def)             Requested size: 378.42288pt x 255.77032pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+<pictures/5faska.png, id=967, 316.18124pt x 259.81065pt>
+File: pictures/5faska.png Graphic file (type png)
+
+<use pictures/5faska.png>
+Package pdftex.def Info: pictures/5faska.png used on input line 29.
+(pdftex.def)             Requested size: 378.44586pt x 310.97438pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[88 <./pictures/5draw.png>] [89 <./pictures/5faska.png>] [90]
+<pictures/5lensdraw.png, id=992, 330.033pt x 466.3824pt>
+File: pictures/5lensdraw.png Graphic file (type png)
+
+<use pictures/5lensdraw.png>
+Package pdftex.def Info: pictures/5lensdraw.png used on input line 78.
+(pdftex.def)             Requested size: 264.89291pt x 374.33044pt.
+ [91 <./pictures/5lensdraw.png>]
+
+LaTeX Warning: Marginpar on page 92 moved.
+
+<pictures/5skleyka.png, id=1000, 59.62276pt x 173.08665pt>
+File: pictures/5skleyka.png Graphic file (type png)
+
+<use pictures/5skleyka.png>
+Package pdftex.def Info: pictures/5skleyka.png used on input line 95.
+(pdftex.def)             Requested size: 85.36632pt x 247.82101pt.
+ [92 <./pictures/5skleyka.png>] [93]
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+|\T2A/faq/m/it/12  онструкции уз-лов креп-ле-ни€ круг-лых оп-ти-че-ских де-та-л
+ей и
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 156--156
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 94 moved.
+
+[94] <pictures/5zavalcovka.png, id=1023, 270.2898pt x 155.01915pt>
+File: pictures/5zavalcovka.png Graphic file (type png)
+
+<use pictures/5zavalcovka.png>
+Package pdftex.def Info: pictures/5zavalcovka.png used on input line 161.
+(pdftex.def)             Requested size: 378.432pt x 217.04189pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--164
+
+ []
+
+
+LaTeX Warning: Marginpar on page 95 moved.
+
+[95 <./pictures/5zavalcovka.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 192--192
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 96 moved.
+
+<pictures/5glue.png, id=1030, 144.17865pt x 99.37125pt>
+File: pictures/5glue.png Graphic file (type png)
+
+<use pictures/5glue.png>
+Package pdftex.def Info: pictures/5glue.png used on input line 207.
+(pdftex.def)             Requested size: 227.06496pt x 156.4984pt.
+ [96 <./pictures/5glue.png>]
+<pictures/5glue1.png, id=1037, 216.44865pt x 71.18594pt>
+File: pictures/5glue1.png Graphic file (type png)
+
+<use pictures/5glue1.png>
+Package pdftex.def Info: pictures/5glue1.png used on input line 228.
+(pdftex.def)             Requested size: 378.43741pt x 124.46101pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
+
+ []
+
+[97 <./pictures/5glue1.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 255--255
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 98 moved.
+
+<pictures/5ring.png, id=1053, 108.76636pt x 89.6148pt>
+File: pictures/5ring.png Graphic file (type png)
+
+<use pictures/5ring.png>
+Package pdftex.def Info: pictures/5ring.png used on input line 261.
+(pdftex.def)             Requested size: 189.21042pt x 155.8943pt.
+ [98 <./pictures/5ring.png>]
+<pictures/5ring1.png, id=1059, 144.90135pt x 103.70744pt>
+File: pictures/5ring1.png Graphic file (type png)
+
+<use pictures/5ring1.png>
+Package pdftex.def Info: pictures/5ring1.png used on input line 286.
+(pdftex.def)             Requested size: 245.98853pt x 176.05658pt.
+
+Underfull \hbox (badness 2310) in paragraph at lines 292--292
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 99 moved.
+
+<pictures/5ring2.png, id=1063, 264.5082pt x 75.8835pt>
+File: pictures/5ring2.png Graphic file (type png)
+
+<use pictures/5ring2.png>
+Package pdftex.def Info: pictures/5ring2.png used on input line 296.
+(pdftex.def)             Requested size: 378.42949pt x 108.56583pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--299
+
+ []
+
+[99 <./pictures/5ring1.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 309--309
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 100 moved.
+
+<pictures/5planka.png, id=1070, 237.40695pt x 121.05225pt>
+File: pictures/5planka.png Graphic file (type png)
+
+<use pictures/5planka.png>
+Package pdftex.def Info: pictures/5planka.png used on input line 314.
+(pdftex.def)             Requested size: 378.42073pt x 192.95422pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[100 <./pictures/5ring2.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 327--327
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 327--327
+\T2A/faq/m/n/8/200ls Ќј ЋјƒЌџћ 
+ []
+
+
+LaTeX Warning: Marginpar on page 101 moved.
+
+<pictures/5nakladnoe.png, id=1079, 50.589pt x 64.3203pt>
+File: pictures/5nakladnoe.png Graphic file (type png)
+
+<use pictures/5nakladnoe.png>
+Package pdftex.def Info: pictures/5nakladnoe.png used on input line 337.
+(pdftex.def)             Requested size: 85.3633pt x 108.53334pt.
+
+Underfull \hbox (badness 1062) in paragraph at lines 351--351
+\T2A/faq/m/n/8/200ls —ѕ≈÷»јЋ№Ќџ≈ 
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 351--351
+\T2A/faq/m/n/8/200ls —ѕќ—ќЅџ 
+ []
+
+[101 <./pictures/5planka.png> <./pictures/5nakladnoe.png>]
+
+LaTeX Warning: Marginpar on page 102 moved.
+
+<pictures/5obj.png, id=1087, 312.56775pt x 194.04495pt>
+File: pictures/5obj.png Graphic file (type png)
+
+<use pictures/5obj.png>
+Package pdftex.def Info: pictures/5obj.png used on input line 355.
+(pdftex.def)             Requested size: 543.45331pt x 337.38083pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--358
+
+ []
+
+[102 <./pictures/5obj.png>]
+<pictures/5condensor.png, id=1096, 329.18985pt x 117.43875pt>
+File: pictures/5condensor.png Graphic file (type png)
+
+<use pictures/5condensor.png>
+Package pdftex.def Info: pictures/5condensor.png used on input line 370.
+(pdftex.def)             Requested size: 543.44621pt x 193.87485pt.
+
+<pictures/5photoobj.png, id=1097, 125.7498pt x 116.71605pt>
+File: pictures/5photoobj.png Graphic file (type png)
+
+<use pictures/5photoobj.png>
+Package pdftex.def Info: pictures/5photoobj.png used on input line 378.
+(pdftex.def)             Requested size: 151.38445pt x 140.50911pt.
+ [103 <./pictures/5condensor.png> <./pictures/5photoobj.png>] <pictures/5photoo
+bj1.png, id=1107, 318.7107pt x 218.61674pt>
+File: pictures/5photoobj1.png Graphic file (type png)
+
+<use pictures/5photoobj1.png>
+Package pdftex.def Info: pictures/5photoobj1.png used on input line 391.
+(pdftex.def)             Requested size: 378.44368pt x 259.59004pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--394
+
+ []
+
+<pictures/5photoobj2.png, id=1108, 181.3977pt x 156.8259pt>
+File: pictures/5photoobj2.png Graphic file (type png)
+
+<use pictures/5photoobj2.png>
+Package pdftex.def Info: pictures/5photoobj2.png used on input line 397.
+(pdftex.def)             Requested size: 378.46635pt x 327.19997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/5photoobj3.png, id=1114, 250.7769pt x 240.29774pt>
+File: pictures/5photoobj3.png Graphic file (type png)
+
+<use pictures/5photoobj3.png>
+Package pdftex.def Info: pictures/5photoobj3.png used on input line 412.
+(pdftex.def)             Requested size: 302.7675pt x 290.11583pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[104 <./pictures/5photoobj1.png>]
+
+LaTeX Warning: Text page 105 contains only floats.
+
+
+Overfull \vbox (1.3158pt too high) has occurred while \output is active []
+
+
+[105 <./pictures/5photoobj2.png> <./pictures/5photoobj3.png>]
+<pictures/5Helios.png, id=1130, 230.17995pt x 136.95164pt>
+File: pictures/5Helios.png Graphic file (type png)
+
+<use pictures/5Helios.png>
+Package pdftex.def Info: pictures/5Helios.png used on input line 431.
+(pdftex.def)             Requested size: 264.91911pt x 157.62062pt.
+
+<pictures/5Canon.png, id=1131, 961.191pt x 290.5254pt>
+File: pictures/5Canon.png Graphic file (type png)
+
+<use pictures/5Canon.png>
+Package pdftex.def Info: pictures/5Canon.png used on input line 438.
+(pdftex.def)             Requested size: 543.4406pt x 164.25798pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--441
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--441
+
+ []
+
+) [106 <./pictures/5Helios.png> <./pictures/5Canon.png>]
+\openout2 = `Prism_mirror.aux'.
+
+ (Prism_mirror.tex
+
+LaTeX Warning: Marginpar on page 107 moved.
+
+[107
+
+
+
+] <pictures/6prism.png, id=1143, 995.97093pt x 249.18094pt>
+File: pictures/6prism.png Graphic file (type png)
+
+<use pictures/6prism.png>
+Package pdftex.def Info: pictures/6prism.png used on input line 52.
+(pdftex.def)             Requested size: 543.45448pt x 135.9663pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+[108 <./pictures/6prism.png>]
+<pictures/6roof.png, id=1150, 402.75468pt x 170.88844pt>
+File: pictures/6roof.png Graphic file (type png)
+
+<use pictures/6roof.png>
+Package pdftex.def Info: pictures/6roof.png used on input line 71.
+(pdftex.def)             Requested size: 378.42352pt x 160.56474pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+
+LaTeX Warning: Marginpar on page 109 moved.
+
+[109 <./pictures/6roof.png>]
+<pictures/6sostav.png, id=1159, 321.96284pt x 99.7326pt>
+File: pictures/6sostav.png Graphic file (type png)
+
+<use pictures/6sostav.png>
+Package pdftex.def Info: pictures/6sostav.png used on input line 88.
+(pdftex.def)             Requested size: 378.44885pt x 117.22993pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
+
+ []
+
+<pictures/6spatial.png, id=1160, 860.46469pt x 349.305pt>
+File: pictures/6spatial.png Graphic file (type png)
+
+<use pictures/6spatial.png>
+Package pdftex.def Info: pictures/6spatial.png used on input line 95.
+(pdftex.def)             Requested size: 264.89001pt x 107.53189pt.
+
+Underfull \hbox (badness 2393) in paragraph at lines 103--103
+\T2A/faq/m/n/8/200ls –ј—„Ь“Ќџ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 110 moved.
+
+
+LaTeX Warning: Marginpar on page 110 moved.
+
+[110 <./pictures/6sostav.png> <./pictures/6spatial.png>] [111]
+
+LaTeX Warning: Marginpar on page 112 moved.
+
+<pictures/6nakladka.png, id=1182, 219.33945pt x 118.5228pt>
+File: pictures/6nakladka.png Graphic file (type png)
+
+<use pictures/6nakladka.png>
+Package pdftex.def Info: pictures/6nakladka.png used on input line 132.
+(pdftex.def)             Requested size: 302.77242pt x 163.60683pt.
+
+
+LaTeX Warning: Marginpar on page 112 moved.
+
+<pictures/6ugol.png, id=1184, 223.3143pt x 200.54926pt>
+File: pictures/6ugol.png Graphic file (type png)
+
+<use pictures/6ugol.png>
+Package pdftex.def Info: pictures/6ugol.png used on input line 145.
+(pdftex.def)             Requested size: 302.73907pt x 271.87733pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[112 <./pictures/6nakladka.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 155--155
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 155--155
+\T2A/faq/m/n/8/200ls ѕ–»∆»ћЌџћ» 
+ []
+
+
+LaTeX Warning: Marginpar on page 113 moved.
+
+<pictures/6planka.png, id=1193, 305.34074pt x 198.7425pt>
+File: pictures/6planka.png Graphic file (type png)
+
+<use pictures/6planka.png>
+Package pdftex.def Info: pictures/6planka.png used on input line 162.
+(pdftex.def)             Requested size: 378.45554pt x 246.332pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--165
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 169--169
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 113 moved.
+
+[113 <./pictures/6ugol.png>]
+<pictures/6screw.png, id=1200, 251.13824pt x 158.2713pt>
+File: pictures/6screw.png Graphic file (type png)
+
+<use pictures/6screw.png>
+Package pdftex.def Info: pictures/6screw.png used on input line 179.
+(pdftex.def)             Requested size: 340.59314pt x 214.64717pt.
+ [114 <./pictures/6planka.png> <./pictures/6screw.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 188--188
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 115 moved.
+
+<pictures/6spring.png, id=1208, 207.05354pt x 131.17004pt>
+File: pictures/6spring.png Graphic file (type png)
+
+<use pictures/6spring.png>
+Package pdftex.def Info: pictures/6spring.png used on input line 199.
+(pdftex.def)             Requested size: 264.9202pt x 167.82901pt.
+ [115 <./pictures/6spring.png>]
+<pictures/6planspring.png, id=1216, 170.19585pt x 131.89275pt>
+File: pictures/6planspring.png Graphic file (type png)
+
+<use pictures/6planspring.png>
+Package pdftex.def Info: pictures/6planspring.png used on input line 213.
+(pdftex.def)             Requested size: 227.064pt x 175.96254pt.
+
+Underfull \hbox (badness 2310) in paragraph at lines 219--219
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 116 moved.
+
+<pictures/6glue.png, id=1218, 250.7769pt x 141.28786pt>
+File: pictures/6glue.png Graphic file (type png)
+
+<use pictures/6glue.png>
+Package pdftex.def Info: pictures/6glue.png used on input line 227.
+(pdftex.def)             Requested size: 302.7675pt x 170.57939pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[116 <./pictures/6planspring.png>]
+<pictures/6gluescrew.png, id=1225, 105.87555pt x 117.43875pt>
+File: pictures/6gluescrew.png Graphic file (type png)
+
+<use pictures/6gluescrew.png>
+Package pdftex.def Info: pictures/6gluescrew.png used on input line 238.
+(pdftex.def)             Requested size: 142.26343pt x 157.80074pt.
+
+
+LaTeX Warning: Marginpar on page 117 moved.
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 249--249
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»я  
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 249--249
+\T2A/faq/m/n/8/200ls ѕ–»«ћ≈ЌЌџ’  
+ []
+
+
+LaTeX Warning: Marginpar on page 117 moved.
+
+
+LaTeX Warning: Marginpar on page 117 moved.
+
+<pictures/6shoes.png, id=1227, 223.67564pt x 138.7584pt>
+File: pictures/6shoes.png Graphic file (type png)
+
+<use pictures/6shoes.png>
+Package pdftex.def Info: pictures/6shoes.png used on input line 254.
+(pdftex.def)             Requested size: 378.45172pt x 234.77458pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[117 <./pictures/6glue.png> <./pictures/6gluescrew.png>]
+
+LaTeX Warning: Marginpar on page 118 moved.
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 272--272
+\T2A/faq/m/n/8/200ls –ј—„Ь“Ќџ≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 118 moved.
+
+[118 <./pictures/6shoes.png>]
+
+LaTeX Warning: Marginpar on page 119 moved.
+
+
+LaTeX Warning: Command \CYRE invalid in math mode on input line 284.
+
+Missing character: There is no ≈ in font pplr9t!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 284.
+
+Missing character: There is no — in font pplr9t!
+[119]
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 296.
+
+Missing character: There is no ј in font pplr9t!
+[120] [121] <pictures/6lightmirror.png, id=1258, 274.26465pt x 177.42285pt>
+File: pictures/6lightmirror.png Graphic file (type png)
+
+<use pictures/6lightmirror.png>
+Package pdftex.def Info: pictures/6lightmirror.png used on input line 351.
+(pdftex.def)             Requested size: 378.43959pt x 244.81401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--353
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[122] [123 <./pictures/6lightmirror.png>]
+<pictures/6planmirror.png, id=1274, 323.40825pt x 154.6578pt>
+File: pictures/6planmirror.png Graphic file (type png)
+
+<use pictures/6planmirror.png>
+Package pdftex.def Info: pictures/6planmirror.png used on input line 390.
+(pdftex.def)             Requested size: 378.42065pt x 180.9654pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--392
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--392
+
+ []
+
+<pictures/6adaptmirror.png, id=1275, 315.0972pt x 184.2885pt>
+File: pictures/6adaptmirror.png Graphic file (type png)
+
+<use pictures/6adaptmirror.png>
+Package pdftex.def Info: pictures/6adaptmirror.png used on input line 396.
+(pdftex.def)             Requested size: 378.42244pt x 221.32504pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--398
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[124 <./pictures/6planmirror.png>]
+
+LaTeX Warning: Marginpar on page 125 moved.
+
+[125 <./pictures/6adaptmirror.png>]
+Underfull \hbox (badness 2310) in paragraph at lines 440--440
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 440--440
+\T2A/faq/m/n/8/200ls ѕ–»∆»ћЌџћ» 
+ []
+
+
+LaTeX Warning: Marginpar on page 126 moved.
+
+<pictures/6plankamirror.png, id=1291, 298.83646pt x 178.14555pt>
+File: pictures/6plankamirror.png Graphic file (type png)
+
+<use pictures/6plankamirror.png>
+Package pdftex.def Info: pictures/6plankamirror.png used on input line 450.
+(pdftex.def)             Requested size: 378.4465pt x 225.60353pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[126]
+Underfull \hbox (badness 2310) in paragraph at lines 461--461
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+
+LaTeX Warning: Marginpar on page 127 moved.
+
+<pictures/6springmirror.png, id=1301, 127.9179pt x 234.8775pt>
+File: pictures/6springmirror.png Graphic file (type png)
+
+<use pictures/6springmirror.png>
+Package pdftex.def Info: pictures/6springmirror.png used on input line 470.
+(pdftex.def)             Requested size: 151.37901pt x 277.95584pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 482--482
+\T2A/faq/m/n/8/200ls  –≈ѕЋ≈Ќ»≈ 
+ []
+
+[127 <./pictures/6plankamirror.png>]
+
+LaTeX Warning: Marginpar on page 128 moved.
+
+<pictures/6sphermirror.png, id=1309, 133.33815pt x 45.89145pt>
+File: pictures/6sphermirror.png Graphic file (type png)
+
+<use pictures/6sphermirror.png>
+Package pdftex.def Info: pictures/6sphermirror.png used on input line 488.
+(pdftex.def)             Requested size: 227.07062pt x 78.15166pt.
+
+<pictures/6poyasok.png, id=1311, 113.82526pt x 119.2455pt>
+File: pictures/6poyasok.png Graphic file (type png)
+
+<use pictures/6poyasok.png>
+Package pdftex.def Info: pictures/6poyasok.png used on input line 498.
+(pdftex.def)             Requested size: 151.3822pt x 158.59087pt.
+
+<pictures/6cylindric.png, id=1313, 61.79085pt x 145.62405pt>
+File: pictures/6cylindric.png Graphic file (type png)
+
+<use pictures/6cylindric.png>
+Package pdftex.def Info: pictures/6cylindric.png used on input line 507.
+(pdftex.def)             Requested size: 189.23961pt x 445.98587pt.
+ [128 <./pictures/6springmirror.png> <./pictures/6sphermirror.png>] [129 <./pic
+tures/6poyasok.png> <./pictures/6cylindric.png>]
+Underfull \hbox (badness 1062) in paragraph at lines 516--516
+\T2A/faq/m/n/8/200ls —ѕ≈÷»јЋ№Ќџ≈ 
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 516--516
+\T2A/faq/m/n/8/200ls —ѕќ—ќЅџ 
+ []
+
+
+LaTeX Warning: Marginpar on page 130 moved.
+
+<pictures/6razgruzka.png, id=1327, 253.30635pt x 277.15546pt>
+File: pictures/6razgruzka.png Graphic file (type png)
+
+<use pictures/6razgruzka.png>
+Package pdftex.def Info: pictures/6razgruzka.png used on input line 535.
+(pdftex.def)             Requested size: 321.69159pt x 351.97928pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/6razgruzka1.png, id=1330, 652.68843pt x 231.11343pt>
+File: pictures/6razgruzka1.png Graphic file (type png)
+
+<use pictures/6razgruzka1.png>
+Package pdftex.def Info: pictures/6razgruzka1.png used on input line 543.
+(pdftex.def)             Requested size: 543.49405pt x 192.44829pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--546
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/6channelMirror.png, id=1331, 895.09406pt x 345.54094pt>
+File: pictures/6channelMirror.png Graphic file (type png)
+
+<use pictures/6channelMirror.png>
+Package pdftex.def Info: pictures/6channelMirror.png used on input line 549.
+(pdftex.def)             Requested size: 543.45253pt x 209.79369pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--552
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Marginpar on page 130 moved.
+
+[130] <pictures/6doublemirror.png, id=1337, 204.88545pt x 144.90135pt>
+File: pictures/6doublemirror.png Graphic file (type png)
+
+<use pictures/6doublemirror.png>
+Package pdftex.def Info: pictures/6doublemirror.png used on input line 568.
+(pdftex.def)             Requested size: 264.90671pt x 187.35023pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [131 <./pictures/6razgruzka.png> <./pictures/6razgruzka1.png>] [132 <./pictur
+es/6channelMirror.png> <./pictures/6doublemirror.png>]
+\openout2 = `Components.aux'.
+
+ (Components.tex
+
+LaTeX Warning: Marginpar on page 133 moved.
+
+) [133
+
+
+
+]
+\openout2 = `Detail.aux'.
+
+ (Detail.tex <pictures/4det.png, id=1360, 322.3242pt x 164.7756pt>
+File: pictures/4det.png Graphic file (type png)
+
+<use pictures/4det.png>
+Package pdftex.def Info: pictures/4det.png used on input line 21.
+(pdftex.def)             Requested size: 378.43097pt x 193.45796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[134
+
+
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[135 <./pictures/4det.png>] [136]
+Overfull \hbox (20.71776pt too wide) in paragraph at lines 95--96
+[]\T2A/faq/m/n/10 ƒл€ оп-ти-че-ских де-та-лей по-доб-ны-ми рас-че-та-ми (на-при
+-мер, габаритно-аберрационным) 
+ []
+
+[137]
+
+LaTeX Warning: Marginpar on page 138 moved.
+
+<pictures/4oprava.png, id=1385, 215.00325pt x 209.94435pt>
+File: pictures/4oprava.png Graphic file (type png)
+
+<use pictures/4oprava.png>
+Package pdftex.def Info: pictures/4oprava.png used on input line 117.
+(pdftex.def)             Requested size: 227.05592pt x 221.71344pt.
+
+
+LaTeX Warning: Marginpar on page 138 moved.
+
+[138 <./pictures/4oprava.png>]
+
+LaTeX Warning: Marginpar on page 139 moved.
+
+<pictures/4elements.png, id=1392, 160.80075pt x 123.22035pt>
+File: pictures/4elements.png Graphic file (type png)
+
+<use pictures/4elements.png>
+Package pdftex.def Info: pictures/4elements.png used on input line 143.
+(pdftex.def)             Requested size: 227.05785pt x 173.99266pt.
+ [139 <./pictures/4elements.png>]
+
+LaTeX Warning: Marginpar on page 140 moved.
+
+<pictures/4mirror.png, id=1403, 315.45856pt x 179.9523pt>
+File: pictures/4mirror.png Graphic file (type png)
+
+<use pictures/4mirror.png>
+Package pdftex.def Info: pictures/4mirror.png used on input line 164.
+(pdftex.def)             Requested size: 302.75493pt x 172.70555pt.
+
+
+LaTeX Warning: Marginpar on page 140 moved.
+
+<pictures/4double.png, id=1406, 176.3388pt x 140.9265pt>
+File: pictures/4double.png Graphic file (type png)
+
+<use pictures/4double.png>
+Package pdftex.def Info: pictures/4double.png used on input line 182.
+(pdftex.def)             Requested size: 227.06631pt x 181.46692pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[140 <./pictures/4mirror.png>]
+
+LaTeX Warning: Marginpar on page 141 moved.
+
+<pictures/4connect.png, id=1414, 226.9278pt x 162.6075pt>
+File: pictures/4connect.png Graphic file (type png)
+
+<use pictures/4connect.png>
+Package pdftex.def Info: pictures/4connect.png used on input line 200.
+(pdftex.def)             Requested size: 321.68915pt x 230.50975pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Marginpar on page 141 moved.
+
+
+LaTeX Warning: Marginpar on page 141 moved.
+
+[141 <./pictures/4double.png>]
+
+LaTeX Warning: Marginpar on page 142 moved.
+
+<pictures/4axe.png, id=1424, 222.95296pt x 164.0529pt>
+File: pictures/4axe.png Graphic file (type png)
+ <use pictures/4axe.png>
+Package pdftex.def Info: pictures/4axe.png used on input line 220.
+(pdftex.def)             Requested size: 227.0688pt x 167.0814pt.
+
+
+LaTeX Warning: Marginpar on page 142 moved.
+
+[142 <./pictures/4connect.png> <./pictures/4axe.png>]
+<pictures/4connlens.png, id=1432, 148.8762pt x 170.5572pt>
+File: pictures/4connlens.png Graphic file (type png)
+
+<use pictures/4connlens.png>
+Package pdftex.def Info: pictures/4connlens.png used on input line 232.
+(pdftex.def)             Requested size: 113.52646pt x 130.05942pt.
+
+
+LaTeX Warning: Marginpar on page 143 moved.
+
+<pictures/4opt.png, id=1434, 541.02126pt x 351.3125pt>
+File: pictures/4opt.png Graphic file (type png)
+ <use pictures/4opt.png>
+Package pdftex.def Info: pictures/4opt.png used on input line 245.
+(pdftex.def)             Requested size: 227.05402pt x 147.43767pt.
+
+[143 <./pictures/4connlens.png> <./pictures/4opt.png>]
+
+LaTeX Warning: Marginpar on page 144 moved.
+
+[144]
+Overfull \hbox (15.45386pt too wide) in paragraph at lines 275--275
+|\T2A/faq/m/it/12 ѕринципы кон-стру-и-ро-ва-ни€ уз-лов и функ-ци-о-наль-ных уст
+ройств ќЁѕ| 
+ []
+
+
+LaTeX Warning: Marginpar on page 145 moved.
+
+<pictures/4comparator.png, id=1456, 325.57635pt x 197.2971pt>
+File: pictures/4comparator.png Graphic file (type png)
+
+<use pictures/4comparator.png>
+Package pdftex.def Info: pictures/4comparator.png used on input line 289.
+(pdftex.def)             Requested size: 543.46713pt x 329.33746pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 295.
+
+Missing character: There is no Ќ in font pplr9t!
+
+LaTeX Warning: Marginpar on page 145 moved.
+
+[145] <pictures/4teodolit.png, id=1465, 286.55055pt x 127.55655pt>
+File: pictures/4teodolit.png Graphic file (type png)
+
+<use pictures/4teodolit.png>
+Package pdftex.def Info: pictures/4teodolit.png used on input line 311.
+(pdftex.def)             Requested size: 378.44466pt x 168.46274pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
+
+ []
+
+[146 <./pictures/4comparator.png> <./pictures/4teodolit.png>]
+
+LaTeX Warning: Marginpar on page 147 moved.
+
+<pictures/4kinetic.png, id=1474, 320.1561pt x 120.9318pt>
+File: pictures/4kinetic.png Graphic file (type png)
+
+<use pictures/4kinetic.png>
+Package pdftex.def Info: pictures/4kinetic.png used on input line 327.
+(pdftex.def)             Requested size: 378.45506pt x 142.95291pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--329
+
+ []
+
+[147 <./pictures/4kinetic.png>]
+
+LaTeX Warning: Marginpar on page 148 moved.
+
+
+LaTeX Warning: Marginpar on page 148 moved.
+
+
+LaTeX Warning: Marginpar on page 148 moved.
+
+
+LaTeX Warning: Marginpar on page 148 moved.
+
+[148] [149] [150] [151]
+
+LaTeX Warning: Marginpar on page 152 moved.
+
+[152] <pictures/4Montage.png, id=1517, 534.9035pt x 403.02394pt>
+File: pictures/4Montage.png Graphic file (type png)
+
+<use pictures/4Montage.png>
+Package pdftex.def Info: pictures/4Montage.png used on input line 484.
+(pdftex.def)             Requested size: 380.42894pt x 286.63481pt.
+
+<pictures/4LaserShow.png, id=1518, 788.2248pt x 371.9496pt>
+File: pictures/4LaserShow.png Graphic file (type png)
+
+<use pictures/4LaserShow.png>
+Package pdftex.def Info: pictures/4LaserShow.png used on input line 490.
+(pdftex.def)             Requested size: 543.46675pt x 256.45253pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--493
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[153 <./pictures/4Montage.png>]
+<pictures/4plata.png, id=1526, 166.58235pt x 129.00195pt>
+File: pictures/4plata.png Graphic file (type png)
+
+<use pictures/4plata.png>
+Package pdftex.def Info: pictures/4plata.png used on input line 502.
+(pdftex.def)             Requested size: 302.77365pt x 234.46893pt.
+
+<pictures/4uzel.png, id=1529, 243.18855pt x 141.6492pt>
+File: pictures/4uzel.png Graphic file (type png)
+
+<use pictures/4uzel.png>
+Package pdftex.def Info: pictures/4uzel.png used on input line 514.
+(pdftex.def)             Requested size: 378.41893pt x 220.41635pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--516
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--516
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pictures/4Nanizivanie.png, id=1530, 572.99786pt x 318.9516pt>
+File: pictures/4Nanizivanie.png Graphic file (type png)
+
+<use pictures/4Nanizivanie.png>
+Package pdftex.def Info: pictures/4Nanizivanie.png used on input line 521.
+(pdftex.def)             Requested size: 264.90244pt x 147.45439pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[154 <./pictures/4LaserShow.png> <./pictures/4plata.png>]
+<pictures/4Lastochkin.png, id=1538, 476.39204pt x 271.38123pt>
+File: pictures/4Lastochkin.png Graphic file (type png)
+
+<use pictures/4Lastochkin.png>
+Package pdftex.def Info: pictures/4Lastochkin.png used on input line 539.
+(pdftex.def)             Requested size: 189.20863pt x 107.78448pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[155 <./pictures/4uzel.png> <./pictures/4Nanizivanie.png>]
+
+LaTeX Warning: Marginpar on page 156 moved.
+
+<pictures/4block.png, id=1548, 191.2746pt x 136.5903pt>
+File: pictures/4block.png Graphic file (type png)
+
+<use pictures/4block.png>
+Package pdftex.def Info: pictures/4block.png used on input line 558.
+(pdftex.def)             Requested size: 227.06503pt x 162.14845pt.
+
+<pictures/4NI.png, id=1549, 706.83586pt x 347.8596pt>
+File: pictures/4NI.png Graphic file (type png)
+ <use pictures/4NI.png>
+Package pdftex.def Info: pictures/4NI.png used on input line 566.
+(pdftex.def)             Requested size: 302.7471pt x 148.99284pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[156 <./pictures/4Lastochkin.png> <./pictures/4block.png>]
+<pictures/4prism.png, id=1557, 183.084pt x 224.5188pt>
+File: pictures/4prism.png Graphic file (type png)
+
+<use pictures/4prism.png>
+Package pdftex.def Info: pictures/4prism.png used on input line 580.
+(pdftex.def)             Requested size: 264.92302pt x 324.87927pt.
+ [157 <./pictures/4NI.png> <./pictures/4prism.png>]
+<pictures/4inversion.png, id=1567, 324.4923pt x 99.7326pt>
+File: pictures/4inversion.png Graphic file (type png)
+
+<use pictures/4inversion.png>
+Package pdftex.def Info: pictures/4inversion.png used on input line 591.
+(pdftex.def)             Requested size: 543.53415pt x 167.05502pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--593
+
+ []
+
+) [158 <./pictures/4inversion.png>]
+\openout2 = `Adjustment.aux'.
+
+ (Adjustment.tex
+
+LaTeX Warning: Marginpar on page 159 moved.
+
+[159
+
+
+
+]
+
+LaTeX Warning: Marginpar on page 160 moved.
+
+
+Overfull \hbox (4.2849pt too wide) in paragraph at lines 42--43
+\T2A/faq/m/n/10 тив-ных па-ра-мет-ров от пер-вич-ных по-греш-но-стей и фак-то-р
+ов ($\OT1/zplm/m/n/10 \OML/zplm/m/it/10 y[] \OT1/zplm/m/n/10 = \OML/zplm/m/it/
+10 f[]\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/pplx/m/n/10 , \OML/zplm/m/it/10
+ y\OT1/pplx/m/n/10 , \OML/zplm/m/it/10 q[]\OT1/pplx/m/n/10 , \OT1/zplm/m/n/10 
+\OML/zplm/m/it/10 q[]\OT1/zplm/m/n/10 )$\T2A/faq/m/n/10 ), 
+ []
+
+<pictures/11would.png, id=1577, 314.8563pt x 215.8464pt>
+File: pictures/11would.png Graphic file (type png)
+
+<use pictures/11would.png>
+Package pdftex.def Info: pictures/11would.png used on input line 47.
+(pdftex.def)             Requested size: 378.431pt x 259.42937pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[160] <pictures/11adapt.png, id=1590, 353.82187pt x 211.54031pt>
+File: pictures/11adapt.png Graphic file (type png)
+
+<use pictures/11adapt.png>
+Package pdftex.def Info: pictures/11adapt.png used on input line 60.
+(pdftex.def)             Requested size: 378.4291pt x 226.25227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[161 <./pictures/11would.png>]
+
+LaTeX Warning: Marginpar on page 162 moved.
+
+<pictures/11etalon.png, id=1600, 310.5201pt x 196.5744pt>
+File: pictures/11etalon.png Graphic file (type png)
+
+<use pictures/11etalon.png>
+Package pdftex.def Info: pictures/11etalon.png used on input line 76.
+(pdftex.def)             Requested size: 378.44069pt x 239.57146pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+[162 <./pictures/11adapt.png> <./pictures/11etalon.png>] [163] [164]
+Underfull \hbox (badness 2134) in paragraph at lines 138--138
+\T2A/faq/m/n/8/200ls ё—“»–ќ¬ ј 
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 138--138
+\T2A/faq/m/n/8/200ls  ј„≈—“¬ј 
+ []
+
+
+LaTeX Warning: Marginpar on page 165 moved.
+
+<pictures/11control.png, id=1617, 323.7696pt x 149.23755pt>
+File: pictures/11control.png Graphic file (type png)
+
+<use pictures/11control.png>
+Package pdftex.def Info: pictures/11control.png used on input line 150.
+(pdftex.def)             Requested size: 543.47472pt x 250.50784pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+
+ []
+
+[165 <./pictures/11control.png>] [166]
+Underfull \hbox (badness 1178) in paragraph at lines 184--184
+\T2A/faq/m/n/8/200ls ‘ќ ”—»–ќ¬ ј 
+ []
+
+
+LaTeX Warning: Marginpar on page 167 moved.
+
+<pictures/11objective.png, id=1632, 285.9483pt x 220.6644pt>
+File: pictures/11objective.png Graphic file (type png)
+
+<use pictures/11objective.png>
+Package pdftex.def Info: pictures/11objective.png used on input line 202.
+(pdftex.def)             Requested size: 302.74596pt x 233.62703pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 207--207
+\T2A/faq/m/n/8/200ls ќЅ≈—ѕ≈„≈Ќ»≈ 
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 207--207
+\T2A/faq/m/n/8/200ls –јЅќ„»’ 
+ []
+
+
+LaTeX Warning: Marginpar on page 167 moved.
+
+[167] <pictures/11teleobj.png, id=1638, 231.5049pt x 114.1866pt>
+File: pictures/11teleobj.png Graphic file (type png)
+
+<use pictures/11teleobj.png>
+Package pdftex.def Info: pictures/11teleobj.png used on input line 229.
+(pdftex.def)             Requested size: 283.82027pt x 139.99043pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[168 <./pictures/11objective.png>]
+
+LaTeX Warning: Marginpar on page 169 moved.
+
+
+LaTeX Warning: Marginpar on page 169 moved.
+
+<pictures/11image.png, id=1646, 261.6174pt x 143.3355pt>
+File: pictures/11image.png Graphic file (type png)
+
+<use pictures/11image.png>
+Package pdftex.def Info: pictures/11image.png used on input line 254.
+(pdftex.def)             Requested size: 378.45326pt x 207.34776pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[169 <./pictures/11teleobj.png>]
+
+LaTeX Warning: Marginpar on page 170 moved.
+
+<pictures/11mirror.png, id=1654, 275.3487pt x 135.3858pt>
+File: pictures/11mirror.png Graphic file (type png)
+
+<use pictures/11mirror.png>
+Package pdftex.def Info: pictures/11mirror.png used on input line 269.
+(pdftex.def)             Requested size: 378.42705pt x 186.06825pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--271
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[170 <./pictures/11image.png>]
+
+Package hyperref Warning: Suppressing empty link on input line 292.
+
+<pictures/11prism.png, id=1660, 332.6829pt x 172.4844pt>
+File: pictures/11prism.png Graphic file (type png)
+
+<use pictures/11prism.png>
+Package pdftex.def Info: pictures/11prism.png used on input line 296.
+(pdftex.def)             Requested size: 378.45023pt x 196.21315pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--298
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[171 <./pictures/11mirror.png>]
+
+LaTeX Warning: Marginpar on page 172 moved.
+
+) [172 <./pictures/11prism.png>]
+\openout2 = `Solutions.aux'.
+
+ (Solutions.tex)
+
+Package bibentry Warning: You have used \nobibliography* 
+(bibentry)                without a following \bibliography.
+(bibentry)                You may not be able to run BibTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+(sample-book.aux (OEP.aux) (Gears.aux) (Conic_gear.aux) (Cherv_gear.aux)
+(Vint-gaika.aux) (EMP.aux) (Potentiometer.aux) (IEMM.aux) (Mufti.aux) (UCHE.aux
+) (ProektirovanieOEP.aux) (KD.aux) (Lenses.aux) (Prism_mirror.aux)
+(Components.aux) (Detail.aux) (Adjustment.aux) (Solutions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
+
+
+Package rerunfilecheck Warning: File `sample-book.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `sample-book.out':
+(rerunfilecheck)             Before: 530918526D14EFA37427AD64798F9217;21494
+(rerunfilecheck)             After:  3EC2DD431254FF09E22E3909E56CDA47;19933.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
+ ) 
+Here is how much of TeX's memory you used:
+ 17254 strings out of 493333
+ 241268 string characters out of 3139178
+ 460326 words of memory out of 3000000
+ 19711 multiletter control sequences out of 15000+200000
+ 72328 words of font info for 112 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,14n,58p,4936b,691s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.76} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.75} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.74} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.73} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.72} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.71} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Users/FunnyJingl/AppData/Roaming/MiKTeX/2.9/fonts/enc/t2/t2a.enc} <C:\Users
+\FunnyJingl\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.
+pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\FunnyJin
+gl\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/antiq5.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/pscyr/antiq6.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/pscyr/antiq7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/ercour.pfb><C:/Users/Funn
+yJingl/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Use
+rs/FunnyJingl/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/mathpazo/fplmri.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/textb19.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on sample-book.pdf (172 pages, 19001983 bytes).
+PDF statistics:
+ 1874 PDF objects out of 2073 (max. 8388607)
+ 384 named destinations out of 1000 (max. 500000)
+ 5216 words of extra memory for PDF output out of 10000 (max. 10000000)
+

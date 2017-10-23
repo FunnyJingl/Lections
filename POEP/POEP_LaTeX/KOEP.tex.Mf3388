@@ -1,0 +1,152 @@
+\documentclass[oneside,final,12pt]{extreport}
+%\documentclass[a4paper,12pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage[T2A]{fontenc}
+\usepackage{vmargin}
+\setpapersize{A4}
+\setmarginsrb{2cm}{1.5cm}{1cm}{1.5cm}{0pt}{0mm}{0pt}{13mm}
+\usepackage{indentfirst}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{floatrow}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage{icomma}
+\usepackage{enumitem}
+\usepackage{verbatim}
+\usepackage{comment}
+\usepackage{commath}
+\usepackage{mathtext}
+\usepackage{subcaption}
+\usepackage{topcapt}
+\usepackage{appendix}
+\usepackage{pdfpages}
+\usepackage{caption} 
+\usepackage{cite} 
+\usepackage{tocloft}
+\usepackage{tikz} 
+\usepackage{fancyhdr}
+\usepackage{lscape}
+%\usepackage{longtable} 
+\usepackage{xtab}
+%\usetikzlibrary{graphs}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor={black}, citecolor={black}}
+\usepackage{cmap} % PDF search & cut'n'paste
+% подписи в русских типографских традициях
+\floatsetup[table]{capposition=top}
+%\DeclareCaptionFormat{GOSTtable}{#2#1\\#3}
+%\DeclareCaptionLabelSeparator{fill}{\hfill}
+%\DeclareCaptionLabelFormat{fullparents}{\bothIfFirst{#1}{~}#2}
+%\captionsetup[table]{
+%     format=GOSTtable,
+%     font={footnotesize},
+%     labelformat=fullparents,
+%    labelsep=fill,
+%     labelfont=it,
+%    textfont=bf,
+%    justification=centering,
+%    singlelinecheck=false
+%    }
+\makeatletter
+\long\def\@makecaption#1#2{
+	\vskip\abovecaptionskip
+	\hbox to\textwidth{\hfill\parbox{0.9\textwidth}{\begin{center}#1 #2\end{center}}\hfill}
+	\setlength\belowcaptionskip{-15pt}
+	\vskip\belowcaptionskip}
+
+\makeatother
+
+\makeatletter
+\renewcommand*{\@biblabel}[1]{\hfill#1.} 
+%\renewcommand{\l@chapter}{\arabic{chapter}. }
+\makeatother
+
+\clubpenalty=9999 % запрет висячих строк
+\widowpenalty=9999
+\usepackage[labelsep=period]{caption}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+%\makeatletter 
+%\renewcommand{\@chapapp}{Глава} %
+%\renewcommand{\@makechapterhead}[1]{
+%	\renewcommand{\thechapter}{\arabic{chapter}. } 
+%	\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}. }
+%	\renewcommand{\thesubsection}{\arabic{chapter}.\arabic{section}.\arabic{subsection}. }
+%	\vspace*{30 pt} % расстояние от верхнего края страницы
+%	{\parindent=0pt
+%		\raggedright \normalfont\huge\bfseries
+%		\thechapter  
+%		%\vspace{20 pt} % расстояние между строками в заголовке
+%		\normalfont\Huge\bfseries #1\par 
+%		\nopagebreak 
+%		\vspace{40 pt} % расстояние до текста после заголовка
+%	}
+%}
+%\makeatother 
+
+\renewcommand\appendixname{Приложения}
+\makeatletter
+\def\redeflsection{\def\l@section{\@dottedtocline{1}{1.5cm}{7.8cm}}}
+\renewcommand\appendix{\par
+	\setcounter{chapter}{0}
+	\setcounter{section}{0}
+	\setcounter{subsection}{0}
+	\def\@chapapp{\appendixname}
+	\addtocontents{toc}{\protect\redeflsection}
+	\def\thesection{\appendixname\hspace{0.2cm}\@arabic\c@section}}
+\makeatother
+
+\graphicspath{{pictures/}}
+\bibliographystyle{unsrt} 
+%\renewcommand{\labelenumii}{\arabic{enumi}} % % сквозная нумерация рисунков
+\makeatletter
+\renewcommand{\@chapapp}{Лекция}
+\makeatother
+
+\setlength\textfloatsep{0.75\baselineskip plus 3pt minus 20pt} % уменьшить расстояние после подписи изображения
+
+\begin{document}
+\include{title}
+\renewcommand{\contentsname}{\centerline{\Large{Cодержание}}}
+\tableofcontents
+\include{vvedenie}
+\include{FUOEP}
+\include{GS}
+\include{EMP}
+\include{VEPS}
+\include{1_OEP}
+\include{2_POEP}
+\include{3_KD}
+\include{4_Detail}
+\include{5_Lenses}
+\include{6_Prismirr}
+\include{FIXoptics}
+\include{7_Electroradio}
+\include{8_Potentiometer}
+\include{PI}
+\include{Solutions}
+\include{10_Precision}
+\include{11_Adjustment}
+\include{12_Display}
+\include{13_Reliability}
+\include{14_Standart}
+\nocite{book:ParvolusovPOEP}
+\nocite{book:LatievKTOP}
+\nocite{book:BilibinKTPEA}
+\nocite{book:YakushenkovTROEP}
+\nocite{book:PonomarevPOEP}
+\nocite{book:TishenkoAtlas}
+\nocite{book:TischenkoEPU1}
+\nocite{book:TischenkoEPU2}
+\nocite{book:TishenkoEPUKurs1}
+\nocite{book:TishenkoEPUKurs2}
+\nocite{book:PotapcevRKDKP1}
+\nocite{book:PotapcevRKDKP2}
+\nocite{book:PivovarovRKDKP}
+\addcontentsline{toc}{chapter}{\bibname}
+\bibliography{biblio/lections}
+\end{document}
